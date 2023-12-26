@@ -1,3 +1,5 @@
 Resolusi Saya
 1. Saya ingin bisa menguasai bahasa inggris 
 2. Saya ingin mengusai bahasa pemrograman python
+3. Ingin membuat website Sederhana
+4. membuat prototype ui-ux
