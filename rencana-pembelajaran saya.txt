@@ -2,7 +2,9 @@ rencana pembelajaran saya
 1. Html
 2. CSS
 3. Javascript
+  -React
+--Boostrab--
 4. Python
-  - Ai
-  - Analisis 
+  - data analist
+  - Artificial intelegent
 
