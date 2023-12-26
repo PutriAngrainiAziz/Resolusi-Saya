@@ -4,4 +4,6 @@ rencana pembelajaran saya
 3. Javascript
 --Boostrab--
 4. Python
+  - data analist
+  - Artificial intelegent
 
